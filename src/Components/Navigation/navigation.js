@@ -20,13 +20,14 @@ function Navigation(){
             <nav className={styles.navigationContainer}>
                 <div className={styles.siteIcon}>
                     <img src='/barbell.png' width='40px' height='40px' alt=""/> 
-                    <h1><NavLink to={"/"}>Flex <span className={styles.orange}>Fit</span></NavLink></h1>
+                    <h1><NavLink viewTransition to={"/"}>Flex <span className={styles.orange}>Fit</span></NavLink></h1>
                 </div>
                 <ul>
                     {cat.map(x => (
                         <li 
                         key={x.id}>
                             <NavLink
+                            viewTransition
                             id={x.id}
                             to={x.name} 
                             key={x.id}>{x.name}</NavLink>

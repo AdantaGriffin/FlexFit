@@ -21,8 +21,8 @@ function Home(){
                     <p>Master your body with our curated collection of <span className={styles.calisthenics}>calisthenics</span> and <span className={styles.mobility}>mobility</span> workouts. No gym required, just you and your determination.</p>
                 </section>
                 <section className={styles.links}>
-                    <Link to={'/calisthenic'} className={styles.linkCalisthenics}>Calisthenics</Link>
-                    <Link to={'/mobility'} className={styles.linkMobility}>Mobility</Link>
+                    <Link viewTransition to={'/calisthenic'} className={styles.linkCalisthenics}>Calisthenics</Link>
+                    <Link viewTransition to={'/mobility'} className={styles.linkMobility}>Mobility</Link>
                 </section>
                 <section className={styles.data}>
                     <h3 className={styles.dataItem}><span className={styles.linearColor}>500+<br/></span> exercises</h3>
