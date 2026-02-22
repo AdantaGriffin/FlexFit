@@ -38,7 +38,7 @@ function ItemsList(){
                     <article 
                     className={styles.article}
                     key={x.id}>
-                        <img alt="image" src={x.image}/>
+                        <img alt="" src={x.image}/>
                         <h3>{x.name}</h3>
                         <NavLink to={`${x.id}`}>explore</NavLink>
                     </article>

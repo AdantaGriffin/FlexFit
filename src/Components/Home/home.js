@@ -1,5 +1,4 @@
 import styles from './home.module.scss';
-import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
 function Home(){

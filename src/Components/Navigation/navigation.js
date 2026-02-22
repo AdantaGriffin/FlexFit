@@ -1,6 +1,6 @@
 import styles from './navigation.module.scss';
 import { useState, useEffect } from 'react';
-import { useParams, NavLink } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import { getType } from '../Api/api';
 
 function Navigation(){
@@ -19,7 +19,7 @@ function Navigation(){
         <>
             <nav className={styles.navigationContainer}>
                 <div className={styles.siteIcon}>
-                    <img src='/barbell.png' width='40px' height='40px'/> 
+                    <img src='/barbell.png' width='40px' height='40px' alt=""/> 
                     <h1><NavLink to={"/"}>Flex <span className={styles.orange}>Fit</span></NavLink></h1>
                 </div>
                 <ul>
