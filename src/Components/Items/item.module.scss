@@ -1,0 +1,25 @@
+.itemContainer{
+    height: 90vh;
+    color: white;
+    article{
+        height: 90%;
+        display: grid;
+        grid-template-rows: 30% 20% 40%;
+        row-gap: 20px;
+        padding: 10px;
+        figure{
+        }
+        .target{
+            height: 50%;
+            .heavy{
+                color: #3B82F6;
+                line-height: 1.6;
+                font: {
+                    weight: 700;
+                }
+            }
+        }
+        .howTo{
+        }
+    }
+}

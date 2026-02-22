@@ -1,0 +1,13 @@
+{
+    "types":[
+        {
+            "id":"1",
+            "name":"calisthenic"
+        },
+
+        {
+            "id":"2",
+            "name":"mobility"
+        }
+    ]
+}

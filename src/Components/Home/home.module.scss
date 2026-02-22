@@ -1,0 +1,90 @@
+
+
+
+
+.home{
+    box-sizing: border-box;
+    height: 90vh;
+    color: white;
+    display: grid;
+    grid-template-rows: 10% 50% 10% 10% 20%;
+    .quote, .heading, .text, .links, .data{
+        align-content: center;
+        text-align: center;
+    }
+    .quote{
+        border: .5px solid grey;
+        width: 50%;
+        height: 40%;
+        margin: auto;
+        border-radius: 20px;
+        background: rgba(180, 173, 173, 0.1);
+        p{
+            position: relative;
+            bottom: 12px;
+        }
+    }
+    .heading{
+        h1{
+            text-shadow: 1px 1px 40px #F97316;
+            position: relative;
+            bottom: 45px;
+            line-height: .6;
+            font: {
+                size: 100px;
+            }
+        .linearColor{
+            background: linear-gradient(to right, #F97316, #e313ea);
+            background-clip: text;
+            color: transparent; 
+
+        }
+        }
+    }
+    .text{
+        .calisthenics{
+            color: #3B82F6;
+        }
+        .mobility{
+            color: #10B981;
+        }
+    }
+    .links{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        position: relative;
+        top: 20px;
+        .linkCalisthenics{
+            background: linear-gradient(to right, #3B82F6, #6fa1f0);
+        }
+        .linkMobility{
+            background: linear-gradient(to right, #10B981, #53e2b2);
+        }
+    }
+    .data{
+        display: flex;
+        justify-content: space-evenly;
+        h3{
+            font-size: 2.4em;
+        }
+        .dataItem{
+            border: none;
+            align-content: center;
+        .linearColor{
+            background: linear-gradient(to right, #F97316, #e313ea);
+            background-clip: text;
+            color: transparent; 
+
+        }
+        }
+    }
+    a{
+        color: white;
+        text-decoration: none;
+        border-radius: 20px;
+        padding: 10px 20px;
+        width: 20%;
+        height: 30%;
+    }
+}

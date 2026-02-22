@@ -1,0 +1,1067 @@
+{
+    "1000":{
+        "name":"triceps extension",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"arm",
+        "execution":["Place hands on the coner of a tanle or seat of a chair and back into a proper position.","Keeping your bodu in a straight line with straight legs, straight arms and weight on toes, and the abdominals and glutes braced, lower your body by bending the elbows.", "Raise the body again using the triceps to extend the elbows."],
+        "muscles":{
+            "primary":["Triceps Brachii", " "],
+            "secondary":["Rectus Abdominus", "Gluteus Maximus"]
+        },
+        "notes":""
+    },
+    "1001":{
+        "name":"short lever inverted curl",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"arms",
+        "execution":["Lying on your back, set up under a sturdy table or tall chair with your hands grasping the outter ledges, palms facing each other.","With your torso and legs in a straight line, neck in neutral position, knees ebnt at 90 degrees, weight on the heels, and the abdominals and glutes braced, raise your bodu by bending the elbows.", "Lower to starting position under control, moving mostly at the elbows and not the shoulder."],
+        "muscles":{
+            "primary":["Bicep Brachii"],
+            "secondary":["Brachialis", "Rectus Adominis", "luteus Maximus"]
+        },
+        "notes":""
+    },
+    "1002":{
+        "name":"short lever inverted curl",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"arms",
+        "execution":["Begin in a full stretch position, hanging from a secure rafter or chin up bar with arms in a surpinated grip, palms facing you. The toes will be off the ground and the knees can be bent.", "Pull the body over the rafter or chin up bar to sternum height while keeping the core stable","Lowering the body under control making sure you come all the way down."],
+        "muscles":{
+            "primary":["Bicep Brachii"],
+            "secondary":["Brachialis", "Rectus Adominis", "Gluteus Maximus"]
+        },
+        "notes":""
+    },
+    "1003":{
+        "name":"narrow tricep push up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"arms",
+        "execution":["Lie face down with the hands positioned whoulder width apart and the elbows tucked into the body.","With the feet together and the core stable press the body up.","Lowering the body until the chest touches the floor."],
+        "muscles":{
+            "primary":["Tricep Brachii", "Pectoralis Major", "Anterior Deltoid"],
+            "secondary":["Upper and lower Trapezius","Serratus Anterior","Rectus Abdominus"]
+        },
+        "notes":""
+    },
+    "1004":{
+        "name":"three point bench dip",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"arms",
+        "execution":["Set up three chair so that your feet are resting on one and you body is centered between the other two.","With your palms on the end of the two chairs, fingers forward, and your torso upright and legs in a straight line.", "Push your body up back to starting position"],
+        "muscles":{
+            "primary":["Tricep Brachii"],
+            "secondary":["Pectoralis Major", "Anterior Deltoid"] 
+        },
+            "notes":""
+    },
+    "1100":{
+        "name":"wall anterior neck isohold",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"neck-shoulder",
+        "execution":["Place a folded towel on the forehead.", "From a standing position with arms at the sides, lean against the wall makign sure to keep the body in a straight line.", "Hold for desire amount of time."],
+        "muscles":{
+            "primary":["Sternocleidomastoid"],
+            "secondary":["Scalenes"]
+        },
+        "notes":""
+    },
+    "1101":{
+        "name":"manual neck holds",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"neck-shoulder",
+        "execution":["From a seated position with the elbows braced on the thighs, placed the hands infront of the head and aplly isometric resistence for 10 seconds.", "Place the hands on the back of the head and hold for another 10 seconds while applying manual resistance.", "Finish with a lateral isohold on each side by applying manual resistance for 10 seconds."],
+        "muscles":{
+            "primary":["Sternocleidomastoid", "Scalenes", "Trapezius", "Cervical Extensors"],
+            "secondary":["Rectus Abdominus", "External Obliques", "Erector Spinea"]
+        },
+        "notes":""
+    },
+    "1102":{
+        "name":"push back",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"neck-shoulder",
+        "execution":["Stand with feet wider than hip width and set up as up would in the bottom of a push up position, but keep your hips high.", "Push up and back while crouching at the hips, keeping the hips higher than the shoulders.", "Return to startign position"],
+        "muscles":{
+            "primary":["Anterior Deltion", "Lateral Deltoid", "Upper Pectoralis Major", "Triceps Brachii"],
+            "secondary":["Upper and Lower Trapezius", "Serratus Anterior", "Middle and Lower Pectoralis Major"]
+        },
+        "notes":""
+    },
+    "1103":{
+        "name":"feet elevated pike push up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"neck-shoulder",
+        "execution":["Place ypur hands on the floor just wider than shoulder width and your feet ontop of a sturdy chair, box, or weight bench.", "Pike into an 'L' position by walking your hands back while flexing the hips and raising your buttocks toward the ceiling, then lower your body towards the floor by bending your elbows.", "When your head reaches the ground, reverse the motion to starting pike position by locking out the arms and pushing the body high and away from the floor"],
+        "muscles":{
+            "primary":["Deltoids", "Triceps Brachii"],
+            "secondary":["Upper and Lower Trapezius", "Serratus Anterior"]
+        },
+        "notes":""
+    },
+    "1104":{
+        "name":"rear deltoid raise",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"neck-shoulder",
+        "execution":["From a standing position with a towel wrapped around a pole, grab the end of the towel and lean back into position.", "Keeping the body in a straight line, raise your body by bringing the arms out to the side.", "Control the decent back to starting position."],
+        "muscles":{
+            "primary":["Posterior Deltoid"],
+            "secondary":["Lateral Deltoid", "Middle Trapezius", "Rhomboid Major"]
+        },
+        "notes":""
+    },
+    "1105":{
+        "name":"ytwl",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"neck-shoulder",
+        "execution":["From a standing position, bend at hips past a 45 degree torse angle, maintaining a neutral spine while sitting back and stretching the hamstrings.", "Perform 10 dynamic 'Y' motions by forming a 'Y' with the arms, returning to starting position after each repitition. Switch to 10 'T' to motions with the arms followed by 10 'W' motions.", "Transition into 10 'L' motions by holding the arms straight out with the elbows bent at 90 degrees and rotating at the shoulder joint so that the forearms move from vertical to the ground to paraelle to the ground."],
+        "muscles":{
+            "primary":["Lower Trpezius", "Middle Trapezius", "Rotator Cuff Musculature", "Posterior Deltoid"],
+            "secondary":["Hamstrings", "Gluteus Maximus, Biceps"]
+        },
+        "notes":""
+    },
+    "1106":{
+        "name":"wall hand stand push up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"4",
+        "part":"neck-shoulder",
+        "execution":["Starting on your hand and knees, place your feet against the wall and walk your way up into a handstand position so that your toes end up against the wall, your body is relatively vertical in a straight line, and you are facing the wall.", "Lower the body slowly by bending the elbows until the head reaches the ground.", "Reverse the movement and raise the body back to starting position."],
+        "muscles":{
+            "primary":["Deltoids", "Tricep Brachii"],
+            "secondary":["Upper and Lower Trapezius", "Serratus Anterior"]
+        },
+        "notes":""
+    },
+    "1200":{
+        "name":"push up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"chest",
+        "execution":["Place your hands slightli wider than shoulder length and your feet together on the ground with your body in a straight line from head to toe.", "With the arms at 45 degree angles, the hands positioned directly under the elbows, the glutes and abs contracted, and the entire body tight, lower yourself until your chest touches the ground.", "Reverse the movement and raise your body until your elbows lock back out."],
+        "muscles":{
+            "primary":["Pectoralis Major", "Tricep Brachii", "Anterior Deltoid"],
+            "secondary":["Serratus Anterior", "Trapezius", "Rectus Abdominis"] 
+        },
+            "notes":""
+    },
+    "1201":{
+        "name":"elevated push up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"chest",
+        "execution":["Place your feet ontop of a couch, chair or box and your hands ontop of two chairs positioned slightly wider than shoulder width apart.", "Keeping your body in a straight line and glutes tight, descend until you feel a stretch in your pecs.", "Reverse the movement and push your body up until your elbows lock out."],
+        "muscles":{
+            "primary":["Pectoralis Major", "Triceps Brachii", "Anterior Deltoid"],
+            "secondary":["Serratus Anterior", "Trapezius", "Rectus Abdominis"] 
+        },
+            "notes":""
+    },
+    "1202":{
+        "name":"torso elevated push up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"chest",
+        "execution":["Place your hand ontop of a sturdy chair or table slightly wider than shoulder width and your feet close together on the ground.", "Keeping your glutes contracted and your body in a straight line, lower yourself until your chest touches the chair or table.", "Reverse the movement and raise your body until your elbows lock out."],
+        "muscles":{
+            "primary":["Pectoralis Major", "Triceps Brachii", "Anterior Deltoid"],
+            "secondary":["Serratus Anterior", "Trapezius", "Rectus Abdominis"] 
+        },
+            "notes":""
+    },
+    "1203":{
+        "name":"side to side push up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"chest",
+        "execution":["Begin in a standard push up position, feet close together with toes on the floor, hands under the shoulders.", "As you descend into the push up position, lean to one side, placing more stress on the side that you're leaning toward.", "Push up to lock out and alternate on the other side."],
+        "muscles":{
+            "primary":["Pectoralis Major", "Triceps Brachii" ,"Anterior Deltoid"],
+            "secondary":["Serratus Anterior", "Trapezius", "Rectus Abdominis"] 
+        },
+            "notes":""
+    },
+    "1204":{
+        "name":"one arm push up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"4",
+        "part":"chest",
+        "execution":["Take a wider than normal stance. Place one arm under your body and grab your upper outter leg with your non working arm.", "Lower your body while keeping the grounded arm tucked in close to the torso, keeping the body straight, the core tight, and the hips square."],
+        "muscles":{
+            "primary":["Pectoralis Major", "Triceps Brachii", "Anterior deltoid"],
+            "secondary":["Serratus Anterior", "Trapezius", "Rectus Abdominis", "Obliques"] 
+        },
+            "notes":""
+    },
+    "1205":{
+        "name":"clapping push up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"chest",
+        "execution":["Begin in standard push up position with feet close together and arms slightly wider than shoulder width.", "Lower the body than propel the body upward as forcefully as possible, keeping the feet on you ground.", "Once airborne, clap the hands together and than catch the body in standard push up position."],
+        "muscles":{
+            "primary":["Pectoralis Major", "Triceps Brachii", "Anterior deltoid"],
+            "secondary":["Serratus Anterior", "Trapezius", "Rectus Abdominis"] 
+        },
+            "notes":""
+    },
+    "1206":{
+        "name":"chest dip",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"chest",
+        "execution":["Begin with the hands placed on the backs on two chairs or tables and the knees bent so the feet are off the ground.", "Keeping the forearms relatively vertical, lower the body until you fee a big stretch in the pecs.", "Reverse the movement until the arms are locked out."],
+        "muscles":{
+            "primary":["Pectoralis Major", "Triceps Brachii", "Anterior deltoid"],
+            "secondary":["Pectoralis Minor", "Rhomboids", "Levator Scapulae"] 
+        },
+            "notes":""
+    },
+    "1207":{
+        "name":"sliding fly",
+        "type":"calisthenic",
+        "image":"",
+        "level":"4",
+        "part":"chest",
+        "execution":["Begin in standard push up position with both hand on sliding plates.", "Lower the body while sliding the arms out away from the body until your chest touches the floor.", "Push the body up to starting position."],
+        "muscles":{
+            "primary":["Pectoralis Major", "Anterior deltoid"],
+            "secondary":["Biceps Brachii", "Triceps Brachii", "Rectus Abdominis"] 
+        },
+            "notes":""
+    },
+    "1300":{
+        "name":"crunch",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"core",
+        "execution":["Lie supine with the knees bent, feet on the floor, and hands at the ears. Hold the head and neck in neutral position not flexed or twisted.", "Flex the spine to 30 degrees of trunk flexion with most of the motion occuring in the thoracic spine, keeping the head and neck in proper position.", "Hold at the top briefly and then lower the trunk slowly under control."],
+        "muscles":{
+            "primary":["Rectus Abdominis"],
+            "secondary":["External Oblique", "Internal Oblique"] 
+        },
+            "notes":""
+    },
+    "1301":{
+        "name":"superman",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"core",
+        "execution":["Lie prone on the ground with the arms stretched forward in front of the body, palms down and the knees slightly bent and shoulder width apart.", "Simultaneously raise the torso and legs off the ground, hyperextending at the hips and not just the spine.", "Hold the top position briefly and then lower the body to starting position."],
+        "muscles":{
+            "primary":["Gluteus Maximus", "Erector Spinae"],
+            "secondary":["Hamstrings"] 
+        },
+            "notes":""
+    },
+    "1302":{
+        "name":"bicycle",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"core",
+        "execution":["Lie supine with the hips flexed in the air at 90 degrees.", "With the hands at the ears, flex and rotate the upper spine by raising the torso off the ground about 30 degrees and twisting while flexing the opposite hip untils the elbow and opposite knee meet each other.", "Reverse the movement and twit to the other side as if riding a bicycle."],
+        "muscles":{
+            "primary":["Rectus Abdominis", "Psoas", "Rectus Femoris"],
+            "secondary":["External Oblique", "Internal Oblique"] 
+        },
+            "notes":""
+    },
+    "1303":{
+        "name":"seated knee up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"core",
+        "execution":["While seated, lean back and grab the seat of the chair, keeping the feet on the floor, chest up and head and neck in neutral position.", "Keeping the knees bent, simultaneously move the trunk forward and legs upward so the trunk a thighs move towards each other.", "Lower the torso and feet to starting position."],
+        "muscles":{
+            "primary":["Rectus Abdominis", "Psoas", "Rectus Femoris"],
+            "secondary":["External Oblique", "Internal Oblique"] 
+        },
+            "notes":""
+    },
+    "1304":{
+        "name":"bent knee single leg extension",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"core",
+        "execution":["Lie supine on the ground. Bend both knees. Plant one foot on the ground and lift the other in the air, keeping the hip and knee flexed at 90 degree.", "Lower the bent leg toward the ground. As is approaches the ground, straighten the knee as you continue lowering the leg to the ground, stopping just short of contact.", "Reverse the moveent and return to starting position"],
+        "muscles":{
+            "primary":["Lower Rectus Abdominis", "Psoas Major", "Rectus Femoris"],
+            "secondary":["Upper Rectus Abdominis", "Internal Oblique", "External Oblique"] 
+        },
+            "notes":""
+    },
+    "1305":{
+        "name":"double leg raise",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"core",
+        "execution":["Lie supine, palms down and neck in neutral position.", "Slowly raise both feet to the air.", "Reverse the movement and return to starting position"],
+        "muscles":{
+            "primary":["Lower Rectus Abdominis", "Psoas Major", "Rectus Femoris"],
+            "secondary":["Upper Rectus Abdominis", "Internal Oblique", "External Oblique"] 
+        },
+            "notes":""
+    },
+    "1306":{
+        "name":"sit up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"core",
+        "execution":["Lie supine with the hisp bent at 45 degrees and knees bent at 90 degrees.", "With the hand at the ears, flex the hips and upper back while moving only sightly in the lumbar spine.", "Slowlu descend returning to stating position."],
+        "muscles":{
+            "primary":["Rectus Abdominis", "Psoas Major", "Rectus Femoris"],
+            "secondary":["Upper Rectus Abdominis", "Internal Oblique", "External Oblique"] 
+        },
+            "notes":""
+    },
+    "1307":{
+        "name":"front plank",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"core",
+        "execution":["Form a pillar or bridge by supporting your body in a prone position with only the feet and forearms touching the ground.", "Keeping the body in a straight line with the elbows directly beneath the shoulders , the hand flat on the floor or claspe, and the head looking down, forcefull contract the quads and glutes.", "Hold for time."],
+        "muscles":{
+            "primary":["Rectus Abdominis", "Internal Oblique", "External Oblique"],
+            "secondary":["Gluteous Maximus", "Quadriceps"] 
+        },
+            "notes":""
+    },
+    "1308":{
+        "name":"rotating three point plank",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"core",
+        "execution":["Get into a standard plank position. While keeping the body stable lift one arm in the air and hold for a 2 second count.", "Return to starting position then raise the other arm in the air while keeping the body stable.", "Return to starting position than raise one leg.", "Continue to rotate limps in the manner for entire set."],
+        "muscles":{
+            "primary":["Rectus Abdominis", "Internal Oblique", "External Oblique"],
+            "secondary":["Gluteous Maximus", "Quadriceps", "Trapezius"] 
+        },
+            "notes":""
+    },
+    "1309":{
+        "name":"oblique raise",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"core",
+        "execution":["Begin with a partner holding your feet, your lower body draped over a bench in a lying position, and your upper body suspended in the air with the hands at the ear and legs straight.", "Lower to torso toward the floor, limiting the bending of the lower spine while receiving a stretch in the upper hips.", "Raise the torso with a strong contraction in the gluteous medius and obliques."],
+        "muscles":{
+            "primary":["External Oblique", "Internal Oblique", "Gluteus Medius", "Quadratus Lumborum"],
+            "secondary":["Rectus Abdominis", "Erecto Spinae", "Multifidus"] 
+        },
+            "notes":""
+    },
+    "1310":{
+        "name":"rfk plank",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"core",
+        "execution":["Get into standard plank position on the forearms and feet.", "Squeeze the glutes as had as possible to posteriorly tilt the pelvis. Hold the pelvic tuck throughout the duration of the set.", "Try to drive the elbows to the feet and the feet to the elbows as if trying to pike upwards but keep the body in good alignment."],
+        "muscles":{
+            "primary":["Rectus Abdominis", "Internal Oblique", "External Oblique"],
+            "secondary":["Gluteous Maximus", "Serratus Anterior"] 
+        },
+            "notes":""
+    },
+    "1311":{
+        "name":"side plank",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"core",
+        "execution":["Form a side pillar or bridge by supporting your body in a side lying position with just one foot and one forearm touching the ground.", "Keep the body in a straight line from head to foot with a neutral head and neck position. Squeeze the glutes and keep the forearm of the lower arm pointed straight ahead.", "Hold for a time."],
+        "muscles":{
+            "primary":["External Oblique", "Internal Oblique", "Gluteus Medius", "Quadratus Lumborum"],
+            "secondary":["Rectus Abdominis", "Erecto Spinae", "Multifidus"] 
+        },
+            "notes":""
+    },
+    "1312":{
+        "name":"hanging leg raise",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"core",
+        "execution":["Hang from a chin up bar or sturdy rafter with palms foreward and hand about shoulder width apart keeping the legs straight.", "Raise the legs by flexing atthe hips and knees are at 90 degree angles.", "Lower the legs to starting position"],
+        "muscles":{
+            "primary":["Psoas", "Rectus Femoris", "Lower Rectus Abdominis"],
+            "secondary":["Upper Rectus Abdominis", "Internal Oblique", "External Oblique", "Forearms", "Lower Trapezius"] 
+        },
+            "notes":""
+    },
+    "1313":{
+        "name":"oblique hanging leg raise",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"core",
+        "execution":["Hang from a chin up bar or sturdy rafter with knees bent and hand shouder width apart, palms facing forward. Raise the knees by flexing at the hips. At the same time pull your knees to one side by laterally flexing the spine", "Raise the knees to slightly over 90 degrees relative to the ground. Lower the legs to starting position then alternate to the other side."],
+        "muscles":{
+            "primary":[ "Internal Oblique", "External Oblique", "Rectus Femoris", "Lower Rectus Abdominis"],
+            "secondary":["Upper Rectus Abdominis", "Forearms"] 
+        },
+            "notes":""
+    },
+    "1314":{
+        "name":"roll out",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"core",
+        "execution":["Assume a kneeling position with both hands on sliding plates. Squeeze the glutes and keep head and neck in neutral position.", "Lower your body under control by extending the hips and flexing the arms until your body approaches the floor. Keep the glutes contracted forcefully.", "Raise back to the startign position."],
+        "muscles":{
+            "primary":["Rectus Abdominis", "Internal Oblique", "External Oblique"],
+            "secondary":["Gluteous Maximus", "Latissimus Dorsi", "Triceps Brachii", "Pectoralis Minor"] 
+        },
+            "notes":""
+    },
+    "1315":{
+        "name":"sliding body saw",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"core",
+        "execution":["Form a pillar by resting your body on the ground and prpping your self on your elbows and feet. Feet are on sliding plates.", "keep your gultes and quadriceps contracted and your head in a neutral position so your body forms a straight line.", "Rock the body forward and backward through should flexion and extension. The feet will slide with the forearm serving as a pivot point."],
+        "muscles":{
+            "primary":["Rectus Abdominis", "Internal Oblique", "External Oblique"],
+            "secondary":["Gluteous Maximus", "Quadriceps", "Latissimus Dorsi", "Triceps Brachii"] 
+        },
+            "notes":""
+    },
+    "1400":{
+        "name":"pull up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"back",
+        "execution":["Place ypur hands over the top edge of a sturdy door with a pronated grip and posiotion our body flush against the door.", "Raise your body as high as you can while keeping a straight line from shoulders to knees.", "Lower to starting position and repeat"],
+        "muscles":{
+            "primary":["Latissimus Dorsi", "Brachialis"],
+            "secondary":["Trapezius", "Rhomboids", "Biceps Brachii"] 
+        },
+            "notes":""
+    },
+    "1401":{
+        "name":"side to side pull up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"4",
+        "part":"back",
+        "execution":["Hang form a pull up bar or rafter and slightly wider than shoulder length apart.", "Keeping the chest up and the core tight, pull the body up toward one side until the chin is over the rafter,", "Lower to starting position and repeat from side to side."],
+        "muscles":{
+            "primary":["Latissimus Dorsi", "Brachialis", "Rectus Abdominis"],
+            "secondary":["Trapezius", "Rhomboid Major", "Biceps Brachii", "External Oblique", "Internal Oblique"] 
+        },
+            "notes":""
+    },
+    "1402":{
+        "name":"towel pull up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"back",
+        "execution":["Drape a towel over a chin up baror rafter.", "From a stretched position, raise the body while keeping the core in neutral nd pulling until the hands meet the chest.", "Lower to starting position and repeat"],
+        "muscles":{
+            "primary":["Latissimus Dorsi", "Brachialis", "Forearm"],
+            "secondary":["Trapezius", "Rhomboids", "Biceps Brachii"]
+        },
+            "notes":""
+    },
+    "1403":{
+        "name":"modified inverted row",
+        "type":"calisthenic",
+        "image":"",
+        "level":"",
+        "part":"back",
+        "execution":["Grasp the side of a sturdy table, keeping the knees bent at a 90 to 135 degreea and heel planted firmly on the ground", "Keeping the body in a straight line from the knees to the shoulders, pull your body up uintil your chest meets the table.", "Lower your body to starting position under control."],
+        "muscles":{
+            "primary":["Latissimus Dorsi", "Brachialis", "Posterior Deltoid"],
+            "secondary":["Trapezius", "Rhomboids", "Biceps Brachii"] 
+        },
+            "notes":""
+    },
+    "1404":{
+        "name":"side to side inverted row",
+        "type":"calisthenic",
+        "image":"",
+        "level":"4",
+        "part":"back",
+        "execution":["Begin suspended in a stretch position with the body in a straight line and the core tight with legs straight, heels against the ground and palms facing forward"],
+        "muscles":{
+            "primary":["Latissimus Dorsi", "Brachialis", "Posterior Deltoid"],
+            "secondary":["Trapezius", "Rhomboids", "Biceps Brachii"] 
+        },
+            "notes":""
+    },
+    "1405":{
+        "name":"scapular shrug",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"back",
+        "execution":["Position your body between two couches, chair or weight benchs with the feet on the floor, the hips extended in line with the shoulders, and the back of the upper arms resting on the platform at about 45 degree angle.", "Dig your elbows into the platform and squeeze your shoulder blades together.","Lower the bodyu to starting position under control amd repeat."],
+        "muscles":{
+            "primary":["Trapezius", "Rhomboids", "Posterior Deltoid"],
+            "secondary":["Latissimus Dorsi", "Gluteous Maximus", "Quadriceps", "Erecto Spinae", "Hamstrings", "Biceps femoris"] 
+        },
+            "notes":""
+    },
+    "1406":{
+        "name":"towel face pull",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"back",
+        "execution":["Hold on to the ends of a towel that is looped around a pole and lean back with the towelsupporting your weight ub a stretched position.", "Keeping your chest up, your core tight and your body in a straight line. Pull your hands toward your ears while squeezing the scapulae together.", "Lower to starting position."],
+        "muscles":{
+            "primary":["Trapezius", "Rhomboids", "Posterior Deltoid"],
+            "secondary":["Latissimus Dorsi", "Brachialis", "Biceps Brachii"] 
+        },
+            "notes":""
+    },
+    "1500":{
+        "name":"sumo squat",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"thigh",
+        "execution":["Take a very wide stance and flare the feet, placing the arms in the mummy position across the upper body.", "Squat by sitting back keeping the trunk upright and knees forced outward throughout the movement.", "descend until the thighs are paraelle to the ground. Rise to standing position."],
+        "muscles":{
+            "primary":["Quadriceps"],
+            "secondary":["Gluteus Maximus", "Gluteus Medial", "Glutesu Minimal", "Hamstrings", "Deep External Rotators"] 
+        },
+            "notes":""
+    },
+    "1501":{
+        "name":"wall squat isohold",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"thigh",
+        "execution":["Lean your back against a wall with your feet in front of you, hands on the hips.", "Lower the body until the hips reach a 90 degree angle and the thighs are paraelle to the ground. The knees are at 90 degree angle with the shins perpendicular to the ground and the feet flat on the ground.", "Hold for the desired amount of time."],
+        "muscles":{
+            "primary":["Quadriceps"],
+            "secondary":["Gluteus Maximus", "Hamstrings"] 
+        },
+            "notes":""
+    },
+    "1502":{
+        "name":"box squat",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"thigh",
+        "execution":["Stand with your feet wider than shoulder width apart and the feet flared to your likings. Stand very close to the edge of a sturdy box.", "Initiate the movement by breaking at the hi[s and sitting back, keeping the chest up, the knees out so they can track over the toes, and the shins perpendicular to the floor.", "Pause for a moment while sitting on the box and then rise, making sure to squeeze the glutes to lockout."],
+        "muscles":{
+            "primary":["Quadriceps"],
+            "secondary":["Gluteus Maximus", "Gluteus Medial", "Glutesu Minimal", "Hamstrings"] 
+        },
+            "notes":""
+    },
+    "1503":{
+        "name":"full squat",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"thigh",
+        "execution":["Stand with a narrow stance and feet flared.", "Iniate the movement by simultaneously breaking at the knees and hips and dropping straight down", "Keep your weight on the whole foot, the chest up, and force the knees out of the bottom of the movement so that the knees track over the middle of the feet."],
+        "muscles":{
+            "primary":["Quadriceps"],
+            "secondary":["Gluteus Maximus", "Glutesu Medius", "Glutesu Minimal", "Hamstrings"] 
+        },
+            "notes":""
+    },
+    "1504":{
+        "name":"sissy squat",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"thigh",
+        "execution":["Begin in a standing position with a narrow stance. Grasp somethingin front of you for balance.", "Descend by breaking at the knees and shifting them forward while leaning the torso back and rising onto the toes.", "Descend until the desired depth is reached and then rise to return to starting position."],
+        "muscles":{
+            "primary":["Quadriceps"],
+            "secondary":["Rectus Abdominis"] 
+        },
+            "notes":""
+    },
+    "1505":{
+        "name":"single leg box squat",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"thigh",
+        "execution":["Stand in front of a sturdy box, bench or chair with hands infront of the body.", "Standing on one leg, sit back and down onto the surface, keeping the chest up and spine rigid.", "The knee tracks over the midfootas you push through the heel.", "Lift the arms for counterbalance. Pause on the box for a moment, then rise to return to starting position, making sure to squeeze the glutes."],
+        "muscles":{
+            "primary":["Quadriceps"],
+            "secondary":["Hamstrings", "Adductor Magnus"] 
+        },
+            "notes":""
+    },
+    "1506":{
+        "name":"skater squat",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"thigh",
+        "execution":["Stand on one foot and place the hands in front of the body.", "Sit back and down, breaking at the hips and knees while leaning forward at the trunk.", "Sit back and down, breaking at the hips and knees while leaning forward at the trunk.", "Descend until the knee of the nonworking leg approaches or touches the ground. Stand up to return to starting position. Perfom all the repititions with the weaker leg first and then switch and repeat with the stronger leg."],
+        "muscles":{
+            "primary":["Quadriceps"],
+            "secondary":["Hamstrings", "Adductor Magnus"] 
+        },
+            "notes":""
+    },
+    "1507":{
+        "name":"pistol squat",
+        "type":"calisthenic",
+        "image":"",
+        "level":"4",
+        "part":"thigh",
+        "execution":["Stand on one leg.", "Sink dow by breaking at the hips and knees simultaneously. Taise the arms, flex the hip of the non working leg, keep the chest up and push through the heel.", "Descend until the desired depth is reached and the return to standing."],
+        "muscles":{
+            "primary":["Quadriceps", "Gluteus Maximus"],
+            "secondary":["Hamstring"] 
+        },
+            "notes":""
+    },
+    "1508":{
+        "name":"static lunge",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"thigh",
+        "execution":["Stand on one leg.", "Sink dow by breaking at the hips and knees simultaneously. Taise the arms, flex the hip of the non working leg, keep the chest up and push through the heel.", "Descend until the desired depth is reached and the return to standing."],
+        "muscles":{
+            "primary":["Quadriceps", "Gluteus Maximus"],
+            "secondary":["Hamstring", "Adductor Magnus", "Adductor Longus", "Adductor Brevis", "Glutesu Medius", "Gluteus Minimus"] 
+        },
+            "notes":""
+    },
+    "1509":{
+        "name":"reverse lunge",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"thigh",
+        "execution":["Stand with feet pointed straight ahead and hands on hips.", "Keeping most of the weight on the front leg, step back and lean forward to an approximate 30 degree trunk level, sinking into the wrking hip  and descendong until the back knee touches the ground.", "Rise back to starting position."],
+        "muscles":{
+            "primary":["Quadriceps", "Gluteus Maximus"],
+            "secondary":["Hamstring", "Adductor Magnus", "Adductor Longus", "Adductor Brevis", "Glutesu Medius", "Gluteus Minimus"] 
+        },
+            "notes":""
+    },
+    "1510":{
+        "name":"sliding lunge",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"thigh",
+        "execution":["Stand with feet pointed straight ahead about shoulder width apart with hands on the hips and one foot on sliding plate.", "Keep most of the weight on the foot that isnt on the plate.", "Slide the foot that is on the plate back to an approximate 30 degree trunk angle, sinking into the working hip descending until the back knee touches the ground.", "Rise to starting position"],
+        "muscles":{
+            "primary":["Quadriceps", "Gluteus Maximus"],
+            "secondary":["Hamstring", "Adductor Magnus", "Adductor Longus", "Adductor Brevis", "Glutesu Medius", "Gluteus Minimus"] 
+        },
+            "notes":""
+    },
+    "1511":{
+        "name":"step up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"thigh",
+        "execution":["Begin with your entire foot place ontop of a chair, the other foot remain on the ground", "shift your weight forward and lift by step up.", "Stand tall and squeeze the working glute.", "Swing the non working leg upwards by flexing the hip. Lower yourself in control to starting position."],
+        "muscles":{
+            "primary":["Quadriceps", "Gluteus Maximus"],
+            "secondary":["Hamstring", "Adductor Magnus", "Adductor Longus", "Adductor Brevis", "Glutesu Medius", "Gluteus Minimus"] 
+        },
+            "notes":""
+    },
+    "1512":{
+        "name":"bulgarian split squat",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"thigh",
+        "execution":["Stand infron of a chair or bench. Reach back with one foot resting the top of the foot on surface.", "With an upright trunk or a slight forward lean, sink the knee of the rear leg down and lsightly back to keep most of the body weight on the front leg.", "Descend until the back knee touches or almost touches the floor. Rise to starting position"],
+        "muscles":{
+            "primary":["Quadriceps", "Gluteus Maximus"],
+            "secondary":["Hamstring", "Adductor Magnus", "Adductor Longus", "Adductor Brevis", "Glutesu Medius", "Gluteus Minimus"] 
+        },
+            "notes":""
+    },
+    "1513":{
+        "name":"russian leg curl",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"thigh",
+        "execution":["Find a stable rail beam or couch to wedge your feet under. Kneel ontop of prefered padding.", "With an upright trunk, lower the body under control while keeping the glutes tight, aking sure not to bwnd forward too much at the hips.", "At the bottom of the movement, catch yourself in a push up position and spring back up to starting position, using the shoulder and arm muscles for assistance."],
+        "muscles":{
+            "primary":["Hamstring"],
+            "secondary":["Erector Spinae", "Gluteus Maximus"] 
+        },
+            "notes":""
+    },
+    "1514":{
+        "name":"single leg romanian deadlift",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"thigh",
+        "execution":["Stand on one foot. Squeeze the glute of the nongrounded leg to lock it into position as the leg travels back.", "Making sure the rear leg stays in line with the torso, bend over at the waist while shifting the weight back and looking down to prevent cervical hyperextension. Keep the chets up.", "Keeping a strong low back arch descend until your hamstring range of motion runs out. Reverse the motion back to starting position .", "switch legs and repeat"],
+        "muscles":{
+            "primary":["Hamstring"],
+            "secondary":["Erector Spinae", "Gluteus Maximus"] 
+        },
+            "notes":""
+    },
+    "1515":{
+        "name":"back extensions",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"thigh",
+        "execution":["With your anckle locked in place, drape your body over keeping your legs straight and neck in neutral position.", "Bend at the hips and not the spine, getting a good stretch in the hamstrings.", "Raise the torso while squeezing the glutes to lockout."],
+        "muscles":{
+            "primary":["Hamstring"],
+            "secondary":["Erector Spinae"] 
+        },
+            "notes":""
+    },
+    "1516":{
+        "name":"back extensions",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"thigh",
+        "execution":["With your anckle locked in place, drape your body over keeping your legs straight and neck in neutral position.", "Bend at the hips and not the spine, getting a good stretch in the hamstrings.", "Raise the torso while squeezing the glutes to lockout."],
+        "muscles":{
+            "primary":["Hamstring", "Gluteus Maximus"],
+            "secondary":["Erector Spinae"] 
+        },
+            "notes":""
+    },
+    "1517":{
+        "name":"reverse hyper extensions",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"thigh",
+        "execution":["Lie with your torso across a sturdy platfom, draping your legs over the edge and grasping the edges of the platform. Keep knees straight.", "Keeping the torso locked into place, raise the legs, making sure to squeeze the glutes up top and prevent overextension of the low back.", "Lower the legs to starting position, keeping the spine stable and making sure to prevent rounding the low back."],
+        "muscles":{
+            "primary":["Hamstring", "Gluteus Maximus"],
+            "secondary":["Erector Spinae"] 
+        },
+            "notes":""
+    },
+    "1518":{
+        "name":"sliding leg curl",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"thigh",
+        "execution":["Lie on your back with palms down, placing your heels on two sliding plates.", "Bring outward the hips while simultaneously bringing the heel towards the bittocks.", "Keep the hips high throughout the movement. Lower the body back into starting position."],
+        "muscles":{
+            "primary":["Hamstring"],
+            "secondary":["Erector Spinae", "Gluteus Maximus"] 
+        },
+            "notes":""
+    },
+    "1600":{
+        "name":"glute bridge",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"glutes",
+        "execution":["Lie on your back with the knees bent at 90 degrees and the palms flat on the ground.", "pushing through the heels, raise the hips as high as possible using the gulteal muscle. Move solely around the hip joint and keep the lower back in neutral position.", "Hold the bridge in top position for a moment than lower hips to starting position."],
+        "muscles":{
+            "primary":["Gluteus Maximus"],
+            "secondary":["Hamstring", "Erector Spinae", "Gluteus Maximus", "Glutesu Medius", "Gluteus Minimus", "Adductor Brevis", "Adductor Longus", "Adductor Magnus"] 
+        },
+            "notes":""
+    },
+    "1601":{
+        "name":"shoulder elevated hip thrust",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"glutes",
+        "execution":["Facing upward, place your upper back on a platform with feet flat on the ground.", "Place the hands on the ears and extend the hips by squeezing the glutes. Push through the heels and keep the lower back in an neutral position.", "Rise as high as possible through the hips then lower the hips back to starting position."],
+        "muscles":{
+            "primary":["Gluteus Maximus"],
+            "secondary":["Hamstrings", "Erecto Spinae", "Adductor Magnus", "Adductor Longus", "Adductor Brevis", "Glutesu Medius", "Gluteus Minimus", "Quadriceps"] 
+        },
+            "notes":""
+    },
+    "1602":{
+        "name":"shoulder and feet elevated hip thrust",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"glutes",
+        "execution":["Facing upward, place your back on a sturdy platform and you feet on another sturdy platform at approximately sam heights.", "Extend the hips by squeezing the glutes. Push through the heels and keep the lower back neutral.", "Rise as high as possible through the hipsand then lower the hips to startign position."],
+        "muscles":{
+            "primary":["Gluteus Maximus"],
+            "secondary":["Hamstrings", "Erecto Spinae", "Adductor Brevis", "Adductor Longus", "Adductor Magnus", "Glutesu Medius", "Gluteus Manimus"] 
+        },
+            "notes":""
+    },
+    "1603":{
+        "name":"donkey kick",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"glutes",
+        "execution":["Start on all four with the head neck and spine in neutral position, the hands under the shoulders and the feet under the hips.", "Kick one leg to the rear until you reach fulll extension.", "Return to starting position and repeat all repititions on one leg before switch to the other."],
+        "muscles":{
+            "primary":["Gluteus Maximus"],
+            "secondary":["Hamstrings", "Erecto Spinae", "Adductor Magnus", "Adductor Brevis", "Adductor Longus", "Glutesu Medius", "Gluteus Minimus", "Multifidus"] 
+        },
+            "notes":""
+    },
+    "1604":{
+        "name":"side lying clam",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"glutes",
+        "execution":["Start in a side lying poaiiton with the hips bent at about 135 degrees and the knees bent at about 90 degrees. The neck rest on the arm on the ground. The other arm is braced ontop of the hip.", "With the heels touching eachother, rotate the top hip up.Be sure to move at the hips.", "Return to starting position. Complete desired number of reps before switching to other side."],
+        "muscles":{
+            "primary":["Gluteus Maximus"],
+            "secondary":["Deep External Rotators"] 
+        },
+            "notes":""
+    },
+    "1605":{
+        "name":"side lying hip raise",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"glutes",
+        "execution":[""],
+        "muscles":{
+            "primary":["Gluteus Medius", "Gluteus Minimus", "Upper Gluteus Maximus"],
+            "secondary":["Internal Oblique", "External Oblique", "Quadratus Lumborum"] 
+        },
+            "notes":""
+    },
+    "1700":{
+        "name":"elevated calf raise",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"calves",
+        "execution":["Begin with the toes on a platfirm and the body upright.", "While grapsing something for balance, lower the body and feel a good stretch in the calves.", "Raise the body as high as possible on the toes, holding th top position for a 1 second count. Repeat until the desired number of repititions is completed."],
+        "muscles":{
+            "primary":["Gastrocnemius"],
+            "secondary":["Soleus"] 
+        },
+            "notes":""
+    },
+    "1701":{
+        "name":"squat calf raise",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"calves",
+        "execution":["Begin with your weight on your toes anf sink into a paraelle squat position so the knees are bent at about 90 degrees.", "While grasping something for balance and holding the hip and knee position steady, lower the body at the ankle and feel a good stretch at the ankle joint.", "Raise the body as high as possible onto the toes, holding the top position for a one second count. Repeat for desired number of reps."],
+        "muscles":{
+            "primary":["Soleus"],
+            "secondary":["Gastrocnemius", "Quadriceps", "Gluteous Maximus"] 
+        },
+            "notes":""
+    },
+    "1702":{
+        "name":"stiff leg ankle hop",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"calves",
+        "execution":["Stand with the hand at the side o hips and feet shoulder width apart.", "hop up and down keeping the knees and hips straight tryng to rely sole on the calfs muscles to propel the body.", "Repeat for desired amount of repititions."],
+        "muscles":{
+            "primary":["Hamstring"],
+            "secondary":["Erector Spinae", "Gluteus Maximus"] 
+        },
+            "notes":""
+    },
+    "1800":{
+        "name":"jumping jack",
+        "type":"calisthenic",
+        "image":"",
+        "level":"1",
+        "part":"full",
+        "execution":["Stand with the arms to the sides and feet about hip width apart.", "Jump up while spreading the legs apart and raising the arms to the sides until the reach overhead.", "Land and then spring back to starting position, briging the legs back together and lowering the arms."],
+        "muscles":{
+            "primary":["Quadriceps", "Gastrocnemius", "Soleus"],
+            "secondary":["Deltoids", "Gluteous Maximus", "Gluteus Medial", "Glutesu Minimal"] 
+        },
+            "notes":""
+    },
+    "1801":{
+        "name":"burpee",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"full",
+        "execution":[""],
+        "muscles":{
+            "primary":["From a standing position, squat and place your palms on the floor.", "Kick the feet back and land in a push up position.", "Kick th e feet forward under the hips and land in a squate position than stand up."],
+            "secondary":["Erector Spinae", "Gluteus Maximus"] 
+        },
+            "notes":""
+    },
+    "1802":{
+        "name":"push up with extension",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"full",
+        "execution":["Get into a push up position. Keep the head and neck in neutral position and on eleg flex forwrd with the knee bent so your maintaining three points of contact.", "As you lower the body toward the floor, simultaneiusly extend the hipof the free leg while keeping the knee bent the entire time.", "Raise by pressing the torso up with the pectorals, deltoids and triceps while reversing the hip back into flexion.", "Complete for desired number of repititions then swith to other leg."],
+        "muscles":{
+            "primary":["Pectoralis Major", "Anterior Deltoid", "Triceps Brachii"],
+            "secondary":["Gluteous Maximus", "Rectus Abdominis", "External Oblique", "Internal Oblique"] 
+        },
+            "notes":""
+    },
+    "1803":{
+        "name":"towel row isohold with glute march",
+        "type":"calisthenic",
+        "image":"",
+        "level":"",
+        "part":"full",
+        "execution":["Drape a towel over a sturdy platform that is about waiste height. With the feet on the ground and the knees bent, feasp the ends of the towell and row the body up.", "Holding the body in an isometric position, lift one leg up by fleing at the hip then straighten the leg.", "Raise the leg all the wy up nd the lower it back down. Alternate to the other leg in marching fashion."],
+        "muscles":{
+            "primary":["Latissimus Dorsi", "Middle Trapezius", "Rhomboids", "Brachialis", "Biceps Brachii", "Forearms"],
+            "secondary":["Erecto Spinae", "Quadriceps"] 
+        },
+            "notes":""
+    },
+    "1804":{
+        "name":"sit up burpee",
+        "type":"calisthenic",
+        "image":"",
+        "level":"",
+        "part":"full",
+        "execution":["Lie on your back with your arms overhead, knees bent, and feet flare on the ground.", "Propel your body forcefullly so that you are able to land in a deep squat. The arch the back and jump in the arm while reaching the overhead.", "Absorb the landing softly, squat, and gently roll the body back to starting position."],
+        "muscles":{
+            "primary":["Rectus Abdominis", "External Oblique", "Internal Oblique", "Quadriceps"],
+            "secondary":["Gastrocnemius", "Soleus", "Deltoids"] 
+        },
+            "notes":""
+    },
+    "1805":{
+        "name":"mountain climbers",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"full",
+        "execution":["From a standing position bend over and place your palms on the floor.", "Sink the hips down and straighten one leg behind the body.", "Alternate by jumping one leg forward by flexing the hip and kicking the other leg back by extendong the hip in a climbing maneuver."],
+        "muscles":{
+            "primary":["Tricep Brachii", "Serratus Anterior", "Trapezius"],
+            "secondary":["Rectus Abdominis", "Hip Flexors"] 
+        },
+            "notes":""
+    },
+    "1806":{
+        "name":"bear crawl",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"full",
+        "execution":["Facing downward and keeping your head and neck in neutral alignment, Start on all fours so that your hands and feet are in contact with the ground.", "Keeping low to the ground crawl forward like a bear by flexing the arm and hip on one side of the body simutaneously extending the arm and hip of the other side.", "Crawl forward to desired length then crawl back to startign position."],
+        "muscles":{
+            "primary":["Triceps Brachii", "Serratus Anterior", "Trapezius"],
+            "secondary":["Rectus Adominis", "Hip Flexors"] 
+        },
+            "notes":""
+    },
+    "1807":{
+        "name":"jumping muscle up",
+        "type":"calisthenic",
+        "image":"",
+        "level":"",
+        "part":"full",
+        "execution":["Stand under a sturdy rafter or chin up bar. jump up and grab the rafter or bar with hands pronated.", "Without losing momentum, pull your body up as if performing an explosive pul up.", "Keep rising and transition into a dip movement, then lower the body back to starting position."],
+        "muscles":{
+            "primary":["Tricep Brachii", "Pectoralis Major", "Anterior Deltoid", "Latissimus Dorsi", "Brachialis"],
+            "secondary":["Biceps Brachii", "Quadriceps", "Rectus Abdominis"]
+        },
+            "notes":""
+    },
+    "1808":{
+        "name":"crocodile crawl",
+        "type":"calisthenic",
+        "image":"",
+        "level":"3",
+        "part":"full",
+        "execution":["Facing down and keeping your head and neck in neutral alignment, start on all fours with your weight on your hands and feet.", "Sing the upper body as you would in the bottom of a push up position, then crawl forward like a crocodile by alternating diagonal patterns of opposite shoulder and hip flexion and shoulder and hip extension combined with torso and hop rotation to allow for increased range of motion. Move forward with on hand and foot on opposite sides."],
+        "muscles":{
+            "primary":["Pectoralis Major", "Triceps Brachii", "Deltoids"],
+            "secondary":["Hip Flexors", "Quadriceps", "Rectus Abdominis", "Multifidus","External Oblique", "Internal Oblique"] 
+        },
+            "notes":""
+    },
+    "1809":{
+        "name":"crab walk",
+        "type":"calisthenic",
+        "image":"",
+        "level":"2",
+        "part":"full",
+        "execution":["In a face up position with the neck in a neutral position and the head looking up, begin on all fours so that ypur butt is off the ground.", "Keeping the hips high walk the body back like a crab using the same side pattern of knee and arm movement.", "Walk the body back a desire length and then reverse the motion and walk the body foward to return to starting position."],
+        "muscles":{
+            "primary":["Tricep Brachii"],
+            "secondary":["Gluteous Maximus", "Rectus Abdominis", "Hamstrings", "Quadriceps"] 
+        },
+            "notes":""
+    },
+    "2000":{
+        "name":"mobility one",
+        "type":"mobility",
+        "image":"",
+        "description":"discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription "
+    },
+    "2001":{
+        "name":"mobility two",
+        "type":"mobility",
+        "image":"",
+        "description":"discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription discription "
+    }
+}

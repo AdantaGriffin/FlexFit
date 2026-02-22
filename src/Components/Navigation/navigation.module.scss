@@ -1,0 +1,32 @@
+.navigationContainer{
+        font: {
+            family: "Bebas Neue";
+        }
+    border: 2px solid black;
+    height: 10vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    padding: 0 50px;
+    .siteIcon{
+        display: flex;
+        align-items: center;
+        width: 70%;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+    }
+    h1{
+        .orange{
+            color: #F97316;
+        }
+    }
+    ul{
+        display: flex;
+        justify-content: space-around;
+        list-style: none;
+        min-width: 200px;
+        max-width: 330px;
+    }
+}
